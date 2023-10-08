@@ -1,4 +1,11 @@
-## oiii, sou o João Victor !
+
+
+
+
+```java
+console.log("Hello!! My name is João Victor, i'm 17 years old, welcome to my repository, I hope that your liked")
+```
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jaovictor&show_icons=true&count_private=true&hide_border=true&title_color=F8F8FF&icon_color=F8F8FF&text_color=c9d1d9&bg_color=0d1117" alt="nicola github stats" /> 
